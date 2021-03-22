@@ -2,7 +2,7 @@ This site contains the repository site links to tools, projects, modifications a
 
 ## Tools
 
-[Doki Doki Mod Maker (DDMMaker)](https://ganstakingofsa.github.io/projects/ddmmaker) - Latest Version **1.2.6** (March 21st, 2021)
+[Doki Doki Mod Maker (DDMMaker)](projects/ddmmaker.md) - Latest Version **1.2.6** (March 21st, 2021)
 
 A mod maker tool based off the Ren'Py Source Distribution Kit designed to make Doki Doki Literature Club modding, easier and simpler for new modders of the game. 
 
