@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+This site contains the repository site links to tools, projects, modifications and more made by me or in cojunction with someone else.
 
-You can use the [editor on GitHub](https://github.com/GanstaKingofSA/ganstakingofsa.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Tools
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Doki Doki Mod Maker (DDMMaker)](https://ganstakingofsa.github.io/projects/ddmmaker) - Latest Version **1.2.6** (March 21st, 2021)
 
-### Markdown
+A mod maker tool based off the Ren'Py Source Distribution Kit designed to make Doki Doki Literature Club modding, easier and simpler for new modders of the game. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Doki Doki Mod Launcher (DDML)](https://ganstakingofsa.github.io/projects/ddml) - Latest Version **5.2.3** (March 6th, 2021)
 
-```markdown
-Syntax highlighted code block
+A mod launcher based off the Ren'Py Source Distribution Kit designed to install Doki Doki Literature Club mods, simple and vanilla-like. 
 
-# Header 1
-## Header 2
-### Header 3
+[DDLC Mod Template](https://ganstakingofsa.github.io/projects/ddlc-mod-template) - Latest Version **2.4.4** (Feburary 19th, 2021)
 
-- Bulleted
-- List
+A new mod template for Doki Doki Literature Club based on the game itself that makes modding simpler for new modders with better support.
 
-1. Numbered
-2. List
+## Modifications
 
-**Bold** and _Italic_ and `Code` text
+[DDLC OST Player](https://ganstakingofsa.github.io/projects/ddlc-ost-player) - Latest Version **1.3** (January 30th, 2021)
 
-[Link](url) and ![Image](src)
-```
+A add-on modification to Doki Doki Literature Club mod projects that allows music from mods to be played outside the game's storyline along with sideloaded custom music.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[LayeredImage Tech Preview](https://drive.google.com/file/d/15uuQvq2FSw2RvLFwWVVVqa8Liza80c5_/view?usp=sharing) - Latest Version **0.1.0** (June 26th, 2020)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GanstaKingofSA/ganstakingofsa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A proof of concept of running LayeredImage on Ren'Py 6.99.12.4 than 7.3.5 for a tool called Mood Pose Tool by Chronos. **Highly Experimental**. See this [PDF](https://drive.google.com/file/d/1rZLBHIEEu63Oyj6Apfl3myQabebyDEOp/view) before installing. 
