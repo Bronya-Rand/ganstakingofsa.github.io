@@ -1,7 +1,7 @@
 ## Doki Doki Mod Maker (DDMMaker)
 
 Doki Doki Mod Maker is a mod maker for the visual novel "Doki Doki Literature Club" that allows modders to make their mods easier and simpler with a re-written Ren'Py Source Distribution Kit (SDK).
-> This project is unafilliated with either Team Salvato or RenpyTom. See the [disclaimer](/information/disclaimer/disclaimer.md) page for more information.
+> This project is unafilliated with either Team Salvato or RenpyTom. See the [disclaimer](../information/disclaimer/disclaimer.md) page for more information.
 
 ## Features
 - Support for Ren'Py 7.4.4 Mod Making
@@ -16,10 +16,10 @@ Doki Doki Mod Maker is a mod maker for the visual novel "Doki Doki Literature Cl
 
 ## Screenshots
 
-![DDMMaker Screenshot 1](/assets/ddmmaker/screenshot0003E.png)
-![DDMMaker Screenshot 2](/assets/ddmmaker/screenshot0002E.png)
-![DDMMaker Screenshot 3](/assets/ddmmaker/screenshot0004E.png)
-![DDMMaker Screenshot 4](/assets/ddmmaker/screenshot0001E.png)
+![DDMMaker Screenshot 1](../assets/ddmmaker/screenshot0003E.png)
+![DDMMaker Screenshot 2](../assets/ddmmaker/screenshot0002E.png)
+![DDMMaker Screenshot 3](../assets/ddmmaker/screenshot0004E.png)
+![DDMMaker Screenshot 4](../assets/ddmmaker/screenshot0001E.png)
 
 ## Changes
 
@@ -34,5 +34,4 @@ Version 1.2.5 **(Last Version)**
 - Updated SDK to 7.4.3
 - Fixed a bug that prevent users to select ddlc-win/ddlc-mac.zip files when making a project. (All DDMMaker Versions except depreciated ones).
 
-For other version changes, refer to the [release](https://github.com/GanstaKingofSA/releases) section of the DDMMaker Github repository.
-
+For other version changes, refer to the [release](https://github.com/GanstaKingofSA/DDLC-ModMaker/releases) section of the DDMMaker Github repository.
