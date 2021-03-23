@@ -12,7 +12,7 @@ A collection of programming code done for my programming classes in university.
 
 ## Tools
 
-[Doki Doki Mod Maker (DDMMaker)](projects/ddmmaker.md) - Latest Version **1.2.6** (March 21st, 2021)
+[Doki Doki Mod Maker (DDMMaker)](https://ganstakingofsa.github.io/DDLC-ModMaker) - Latest Version **1.2.6** (March 21st, 2021)
 
 A mod maker tool based off the Ren'Py Source Distribution Kit designed to make Doki Doki Literature Club modding, easier and simpler for new modders of the game. 
 
