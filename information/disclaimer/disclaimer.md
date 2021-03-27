@@ -1,3 +1,9 @@
+layout: page
+title: "Disclaimers - GanstaKingofSA's Github Page"
+permalink: /information/disclaimer
+
+[<-- Back to Information & Guides](../information.md)
+
 ## Disclaimers 
 
 To satisfy the requirements made by certain tools, projects, etc. a disclaimer list is provided for each respective content made by me.

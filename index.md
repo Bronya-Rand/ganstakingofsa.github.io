@@ -1,4 +1,12 @@
+layout: page
+title: "Home - GanstaKingofSA's Github Page"
+permalink: /
+
+# Welcome to the GanstaKingofSA Github Page!
+
 This site contains the repository site links to tools, projects, modifications and more made by me or in cojunction with someone else.
+
+[Information & Guides](information/information.md)
 
 ## Projects
 
@@ -12,17 +20,17 @@ A collection of programming code done for my programming classes in university.
 
 ## Tools
 
+[DDLC Mod Template](https://ganstakingofsa.github.io/DDLCModTemplate2.0) - Latest Version **2.4.4** (Feburary 19th, 2021)
+
+A new mod template for Doki Doki Literature Club based on the game itself that makes modding simpler for new modders with better support.
+
 [Doki Doki Mod Maker (DDMMaker)](https://ganstakingofsa.github.io/DDLC-ModMaker) - Latest Version **1.2.6** (March 21st, 2021)
 
 A mod maker tool based off the Ren'Py Source Distribution Kit designed to make Doki Doki Literature Club modding, easier and simpler for new modders of the game. 
 
-[Doki Doki Mod Launcher (DDML)](projects/ddml.md) - Latest Version **5.2.2** (March 6th, 2021)
+[Doki Doki Mod Launcher (DDML)](https://github.com/GanstaKingofSA/DDML) - Latest Version **5.2.2** (March 6th, 2021)
 
 A mod launcher based off the Ren'Py Source Distribution Kit designed to install Doki Doki Literature Club mods, simple and vanilla-like. 
-
-[DDLC Mod Template](projects/ddlc-mod-template.md) - Latest Version **2.4.4** (Feburary 19th, 2021)
-
-A new mod template for Doki Doki Literature Club based on the game itself that makes modding simpler for new modders with better support.
 
 ## Modifications
 

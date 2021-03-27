@@ -1,4 +1,10 @@
-#  Using the DDLC Mod Template with Xcode
+layout: page
+title: "Using the DDLC Mod Template with Xcode - GanstaKingofSA's Github Page"
+permalink: /information/guides/mod-template-and-xcode
+
+[<-- Back to Guides](guides.md)
+
+# Using the DDLC Mod Template with Xcode
 
 ![DDLC Mod in Xcode](https://marquiskurt.net/images/covers/2019-06-09-cover.png)
 
@@ -12,13 +18,20 @@ However, before running the project, there are a few things that *must* be confi
 
 In **Config.xcconfig**, change the `RENPY_TOOL` line to where Ren'Py is installed. For example:
 
+For Ren'Py 6.99.12.4
 ```xcconfig
 // Change the line below to reflect where your Ren'Py install is!
 //RENPY_TOOL=/some/renpy/location/renpy.sh
 RENPY_TOOL=/Applications/renpy-6.99.12.4-sdk/renpy.sh
 ```
 
-  > For 7.3.5 or higher change `RENPY_TOOL=/Applications/renpy-[version]-sdk/renpy.sh` to the version of Ren'Py you have downloaded. (You can find this by the Ren'Py folder name i.e renpy-<u>7.4.1</u>-sdk)
+For Ren'Py 7.3.5 and higher (replace *X* with the version number of Ren'Py that you downloaded i.e `7.X.X` to `7.4.4`)
+```xcconfig
+// Change the line below to reflect where your Ren'Py install is!
+//RENPY_TOOL=/some/renpy/location/renpy.sh
+RENPY_TOOL=/Applications/renpy-7.X.X-sdk/renpy.sh
+```
+
 ## Change Executable in the Schemes
 
 1. In the Xcode toolbar, click where it says "DDLCModTemplate > My Mac" and click "Edit Scheme".
