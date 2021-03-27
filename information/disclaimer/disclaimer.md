@@ -1,7 +1,3 @@
-layout: page
-title: "Disclaimers - GanstaKingofSA's Github Page"
-permalink: /information/disclaimer
-
 [<-- Back to Information & Guides](../information.md)
 
 ## Disclaimers 

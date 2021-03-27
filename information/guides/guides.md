@@ -1,7 +1,3 @@
-layout: page
-title: "Guides - GanstaKingofSA's Github Page"
-permalink: /information/guides
-
 [<-- Back to Information & Guides](../information.md)
 
 ## Guides
@@ -14,7 +10,7 @@ Here are a select list of guides made by me or other people on projects, mods or
 
 [Using the DDLC Mod Template with Xcode](Mod-Template-and-Xcode.md) - This guide teaches you how to use the DDLC Mod Template on MacOS using Apple's XCode. Made by Marquis Kurt.
 
-## <u>Popular Guides</u>
+## Popular Guides
 
 1. [Installing the Mod Template](Installing-the-Mod-Template-Recent.md)
 2. [Installing the Mod Template (Legacy)](Installing-the-Mod-Template-Legacy.md)

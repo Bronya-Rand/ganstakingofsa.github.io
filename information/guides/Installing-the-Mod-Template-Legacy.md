@@ -1,7 +1,3 @@
-layout: page
-title: "Installing the Mod Template (Legacy) - GanstaKingofSA's Github Page"
-permalink: /information/installing-the-mod-template-legacy
-
 [<-- Back to Guides](guides.md)
 
 # How to Install the Mod Template (Legacy)

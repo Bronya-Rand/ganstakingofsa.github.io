@@ -1,7 +1,3 @@
-layout: page
-title: "Project Information & Guides - GanstaKingofSA's Github Page"
-permalink: /information/
-
 [<-- Back to Homepage](../index.md)
 
 ## Information and Guides

@@ -1,7 +1,3 @@
-layout: page
-title: "Installing the Mod Template - GanstaKingofSA's Github Page"
-permalink: /information/installing-the-mod-template
-
 [<-- Back to Information & Guides](guides.md)
 
 # How to Install the Mod Template

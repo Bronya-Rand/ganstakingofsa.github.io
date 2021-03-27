@@ -1,7 +1,3 @@
-layout: page
-title: "Using the DDLC Mod Template with Xcode - GanstaKingofSA's Github Page"
-permalink: /information/guides/mod-template-and-xcode
-
 [<-- Back to Guides](guides.md)
 
 # Using the DDLC Mod Template with Xcode

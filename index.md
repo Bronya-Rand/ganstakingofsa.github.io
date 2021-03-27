@@ -1,9 +1,3 @@
-layout: page
-title: "Home - GanstaKingofSA's Github Page"
-permalink: /
-
-# Welcome to the GanstaKingofSA Github Page!
-
 This site contains the repository site links to tools, projects, modifications and more made by me or in cojunction with someone else.
 
 [Information & Guides](information/information.md)
