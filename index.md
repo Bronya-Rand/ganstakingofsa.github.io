@@ -4,7 +4,7 @@ This site contains the repository site links to tools, projects, modifications a
 
 ## Projects
 
-[PA-CEQ](https://github.com/GanstaKingofSA/PA-CEQ) - Latest Version **3.0** (June 29th, 2021)
+[PA-CEQ](https://github.com/GanstaKingofSA/PA-CEQ) - Latest Version **3.01** (July 29th, 2021)
 
 A community driven equalizer for Poweramp and Poweramp Equalizer that improves sound quality for headphones and bluetooth devices.
 
@@ -14,7 +14,7 @@ A collection of programming code done for my programming classes in university.
 
 ## Tools
 
-[DDLC Mod Template](https://ganstakingofsa.github.io/DDLCModTemplate2.0) - Latest Version **2.4.6** (June 25th, 2021)
+[DDLC Mod Template](https://ganstakingofsa.github.io/DDLCModTemplate2.0) - Latest Versions: **2.4.8 & 2.3.1-u7** (August 6th, 2021)
 
 A new mod template for Doki Doki Literature Club based on the game itself that makes modding simpler for new modders with better support.
 
