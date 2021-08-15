@@ -4,9 +4,9 @@ This site contains the repository site links to tools, projects, modifications a
 
 ## Projects
 
-[PA-CEQ](https://github.com/GanstaKingofSA/PA-CEQ) - Latest Version **2.0** (November 19th, 2020)
+[PA-CEQ](https://github.com/GanstaKingofSA/PA-CEQ) - Latest Version **3.01** (July 29th, 2021)
 
-A community driven equalizer for Poweramp that improves sound for headphones and bluetooth devices.
+A community driven equalizer for Poweramp and Poweramp Equalizer that improves sound quality for headphones and bluetooth devices.
 
 [CSX-Backup](https://github.com/GanstaKingofSA/CS1310-Backup) 
 
@@ -14,21 +14,21 @@ A collection of programming code done for my programming classes in university.
 
 ## Tools
 
-[DDLC Mod Template](https://ganstakingofsa.github.io/DDLCModTemplate2.0) - Latest Version **2.4.4** (Feburary 19th, 2021)
+[DDLC Mod Template](https://ganstakingofsa.github.io/DDLCModTemplate2.0) - Latest Versions: **2.4.8 & 2.3.1-u7** (August 6th, 2021)
 
 A new mod template for Doki Doki Literature Club based on the game itself that makes modding simpler for new modders with better support.
 
-[Doki Doki Mod Maker (DDMMaker)](https://ganstakingofsa.github.io/DDLC-ModMaker) - Latest Version **1.2.6** (March 21st, 2021)
+[Doki Doki Mod Maker (DDMMaker)](https://ganstakingofsa.github.io/DDLC-ModMaker) - Latest Version **1.2.8** (June 2nd, 2021)
 
 A mod maker tool based off the Ren'Py Source Distribution Kit designed to make Doki Doki Literature Club modding, easier and simpler for new modders of the game. 
 
-[Doki Doki Mod Launcher (DDML)](https://github.com/GanstaKingofSA/DDML) - Latest Version **5.2.2** (March 6th, 2021)
+[Doki Doki Mod Launcher (DDML)](https://github.com/GanstaKingofSA/DDML) - Latest Version **5.2.5** (June 2nd, 2021)
 
 A mod launcher based off the Ren'Py Source Distribution Kit designed to install Doki Doki Literature Club mods, simple and vanilla-like. 
 
 ## Modifications
 
-[DDLC OST Player](https://github.com/GanstaKingofSA/DDLC-OSTPlayer) - Latest Version **1.3** (January 30th, 2021)
+[DDLC OST Player](https://github.com/GanstaKingofSA/DDLC-OSTPlayer) - Latest Version **1.34** (April 19th, 2021)
 
 A add-on modification to Doki Doki Literature Club mod projects that allows music from mods to be played outside the game's storyline along with sideloaded custom music.
 
