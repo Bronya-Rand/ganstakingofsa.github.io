@@ -22,7 +22,7 @@ A new mod template for Doki Doki Literature Club based on the game itself that m
 
 A mod maker tool based off the Ren'Py Source Distribution Kit designed to make Doki Doki Literature Club modding, easier and simpler for new modders of the game. 
 
-[Doki Doki Mod Launcher (DDML)](https://github.com/GanstaKingofSA/DDML) - Latest Version **5.2.5** (June 2nd, 2021)
+[Doki Doki Mod Launcher (DDML)](https://github.com/GanstaKingofSA/DDML) - Latest Version **5.3.0** (August 26th, 2021)
 
 A mod launcher based off the Ren'Py Source Distribution Kit designed to install Doki Doki Literature Club mods, simple and vanilla-like. 
 
