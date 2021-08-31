@@ -28,9 +28,13 @@ A mod launcher based off the Ren'Py Source Distribution Kit designed to install 
 
 ## Modifications
 
-[DDLC OST Player](https://github.com/GanstaKingofSA/DDLC-OSTPlayer) - Latest Version **2.0** (August 8th, 2021)
+[DDLC OST-Player](https://github.com/GanstaKingofSA/DDLC-OSTPlayer) - Latest Version **2.1** (August 31st, 2021)
 
 A add-on modification to Doki Doki Literature Club mod projects that allows music from mods to be played outside the game's storyline along with sideloaded custom music.
+
+[Ren'Py Universal Player](https://github.com/GanstaKingofSA/RenPy-Universal-Player) - Latest Version **1.6** (August 29th, 2021)
+
+The same project as DDLC OST-Player but designed for all Ren'Py projects rather than for Doki Doki Literature Club mod projects.
 
 [LayeredImage Tech Preview](https://drive.google.com/file/d/15uuQvq2FSw2RvLFwWVVVqa8Liza80c5_/view?usp=sharing) - Latest Version **0.1.0** (June 26th, 2020)
 
