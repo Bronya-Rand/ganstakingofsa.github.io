@@ -14,7 +14,7 @@ A collection of programming code done for my programming classes in university.
 
 ## Tools
 
-[DDLC Mod Template](https://ganstakingofsa.github.io/DDLCModTemplate2.0) - Latest Versions: **2.4.8 & 2.3.1-u7** (August 6th, 2021)
+[DDLC Mod Template](https://ganstakingofsa.github.io/DDLCModTemplate2.0) - Latest Versions: **2.4.9 & 2.3.1-u8** (October 28th, 2021)
 
 A new mod template for Doki Doki Literature Club based on the game itself that makes modding simpler for new modders with better support.
 
