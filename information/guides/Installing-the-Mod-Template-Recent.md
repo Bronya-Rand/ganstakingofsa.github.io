@@ -14,14 +14,18 @@ This guide will show you how to install the mod template on a fresh copy of DDLC
 ## Installation Steps
 
 ### Windows
-1. Download the latest version of Ren'Py and run *renpy-7.4.4-sdk.7z.exe*
+1. Download the latest version of Ren'Py the mod template supports and run *renpy-7.4.X-sdk.7z.exe*
 ![Ren'Py Download](../../assets/guides/mod-template/Capture2.PNG)
-2. Select where to extract the `renpy-7.4.4-sdk` folder and press *Extract*.
-![Ren'Py Extractor](../../assets/guides/mod-template/Capture1.PNG)
+2. Select where to extract the `renpy-7.4.X-sdk` folder and press *Extract*.
+
+    ![Ren'Py Extractor](../../assets/guides/mod-template/Capture1.PNG)
+
 3. Download the latest version of the DDLC Mod Template and open the ZIP file.
 ![DDLC MT Download](../../assets/guides/mod-template/Capture4.PNG)
-4. Go to the `renpy-7.4.4-sdk` folder, then make a new folder with the name of your mod. For this example, I named it *A New DDLC Mod*.
-![Folder](../../assets/guides/mod-template/Capture3.PNG)
+4. Go to the `renpy-7.4.X-sdk` folder, then make a new folder with the name of your mod. For this example, I named it *A New DDLC Mod*.
+
+    ![Folder](../../assets/guides/mod-template/Capture3.PNG)
+
 5. Highlight all of the files within the ZIP file and drag them to your newly created folder.
 ![Transfer](../../assets/guides/mod-template/Capture5.PNG)
 6. Download DDLC from DDLC.moe and open *ddlc-win.zip*
